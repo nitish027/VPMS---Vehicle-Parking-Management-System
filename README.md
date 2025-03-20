@@ -4,6 +4,23 @@ The Vehicle Parking Management System (VPMS) is a web-based application designed
 
 ---
 
+### 🏠 Dashboard View  
+![Dashboard](images/demo3.png)  
+![Dashboard](images/demo5.png)  
+
+### 🚗 Parking Status  
+![Parking Status](images/parking-status.png)  
+
+### 👤 User Login  
+![User Login](images/demo1.png)  
+![User Login](images/demo2.png)  
+
+
+
+### 👤 Admin Login  
+![User Login](images/demo4.png)  
+
+
 ## 📌 Features
 
 - **Efficient Vehicle Management:** Track and manage records of vehicles entering and exiting the parking facility.
